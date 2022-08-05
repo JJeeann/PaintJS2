@@ -1,0 +1,22 @@
+{
+  "name": "paint-app",
+  "version": "1.0.0",
+  "description": "Painting Board made with Vanilla JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build",
+"predeploy": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeeannyy/Paint-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeeannyy/Paint-app/issues"
+  },
+  "homepage": "https://jeeanny.github.io/Paint-app"
+}
