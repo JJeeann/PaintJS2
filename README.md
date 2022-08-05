@@ -1,2 +1,2 @@
-# PaintJS
-Painting Board made with VanillaJS
+# Paint app 🎨
+Painting Board made with Vanilla JS
